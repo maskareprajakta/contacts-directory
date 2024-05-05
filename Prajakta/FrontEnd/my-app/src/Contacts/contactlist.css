@@ -1,0 +1,45 @@
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: royalblue;
+}
+
+.create-button {
+    background-color: lightblue;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.contact-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.contact-table th {
+    padding: 10px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    background-color: lightgray;
+    color: darkblue;
+}
+
+.contact-table td {
+    padding: 10px;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.edit-button, .delete-button {
+    background-color: lightgreen;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.delete-button {
+    background-color: salmon;
+}
